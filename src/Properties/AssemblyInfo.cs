@@ -7,3 +7,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("PhotoView.Android")]
 [assembly: AssemblyProduct("PhotoView.Android")]
 [assembly: AssemblyCompany("Yufei Huang")]
+[assembly: AssemblyDescription("Monodroid binding library for https://github.com/chrisbanes/PhotoView")]
